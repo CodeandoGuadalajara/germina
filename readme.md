@@ -2,7 +2,8 @@
 
 =================================
 
-Definición del Proyecto
+##Definición del Proyecto
+
 Germina es un proyecto que busca ayudar a las personas, con nivel de educación superior en México, a tomar mejores decisiones enfocadas a la orientación vocacional, en torno a elecciones de vida que repercuten en temas escolares o laborales.
 
 ##¿Qué problema estamos resolviendo?
