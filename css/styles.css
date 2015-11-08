@@ -1,0 +1,11 @@
+.logo{
+	max-width: 300px
+}
+.visualexample{
+	margin: auto;
+	max-width: 100%
+}
+.visualexample body{
+	height: 100% !important;
+	max-width: 100%
+}
