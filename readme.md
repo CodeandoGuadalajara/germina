@@ -47,10 +47,15 @@ Germina recolecta información de la plataforma Linkedin donde se analizan 3 ele
 
 Aunque Linkedin es la red más completa de la que podemos obtener casos de referencia en México, existe la necesidad de tener mucha más información y de perfiles variados. Hoy en día alrededor de 50% de perfiles profesionales en Linkedin de México, son perfiles de exalumnos del Tecnológico de Monterrey. La necesidad de nutrir la plataforma con datos que podrían ser obtenidos de manera física es una necesidad. 
 
+##Instrucciones
+
+Para generar el archivo de datos correr en terminal
+
+python linkedin.py -b BUSQUEDA
 
 ##Demo
 
-http://
+[Demo con visualización](http://codeandoguadalajara.github.io/germina)
 
 ##Issues y propuestas
 
